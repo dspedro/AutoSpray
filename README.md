@@ -13,3 +13,8 @@ Once the user has an area or field selected. it can connect to the device and it
 <img src="imgs/SprayOFF.jpeg" alt="off">
 
 It's worthy mention that an internet connection is necesasry to create the shape beforehand the spraying job, and then be saved in the android device. However internet isn't mandatory for the spraying itself, as it can be seen, there are diferent screens for each step of the process. In other words, the user would probably plan one's job at the office and only then move to the the field for the sprayin action.
+
+Ther image belowa show the selection areas that are stored in the android device
+<img src="imgs/MainSelect.jpeg" alt="off">
+
+All code were written by me and are avaiable in this repository. Also the eletronic schematics and pictures of the board can be found in this very repository.
